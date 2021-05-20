@@ -1,0 +1,311 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Prevención",
+      "slug": "ps",
+      "description": "Conocer las normas especiales para la prevención de accidentes en las labores diarias de los trabajadores o del público en general en las empresas."
+    },
+    {
+      "id": 2,
+      "name": "RCP Niños",
+      "slug": "ck",
+      "description": "El curso de Primeros Auxilios y Técnicas de RCP en Niños y Lactantes está destinado a mujeres embarazadas, padres primerizos, babysitters y personas que tienen el cuidado de niños, estudiantes de educación inicial, maestras jardineras, psicopedagogas, maestros y profesores de educación física, y público en general."
+    },
+    {
+      "id": 3,
+      "name": "RCP Adultos",
+      "slug": "ca",
+      "description": "Resulta imprescindible en reanimación cardiopulmonar que todo enfermero actualice sus conocimientos conforme a los nuevos criterios y las últimas recomendaciones del European Resuscitation Council."
+    },
+    {
+      "id": 4,
+      "name": "Alergias",
+      "slug": "at",
+      "description": "Desde Nutritional Coaching somos conscientes de la inquietud que se origina cuando se presenta algún tipo de alergia y/o intolerancia alimentaria. Por este motivo y, con el objetivo de proporcionar y ampliar el conocimiento sobre las diferentes Reacciones Adversas Alimentarias (RAA) hemos creado este nuevo curso."
+    },
+    {
+      "id": 5,
+      "name": "Test No Webinars",
+      "slug": "no_webinars",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis."
+    },
+    {
+      "id": 6,
+      "name": "Test With Error",
+      "slug": "with_error",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis."
+    }
+  ],
+  "webinars": [
+    {
+      "id": 1,
+      "name": "Prevención Q&A",
+      "date": "Julio 5, 9:00 AM - Lima, Bogotá y Quito",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet, stunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Prevención Q&A",
+      "date": "Julio 5, 11:00 AM - Lima, Bogotá y Quito",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Prevención Q&A",
+      "date": "Julio 5, 2:00 PM - Lima, Bogotá y Quito",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 1
+    },
+    {
+      "id": 4,
+      "name": "RCP Niños Q&A",
+      "date": "Agosto 1, 10:00 AM - Lima, Bogotá y Quito",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 2
+    },
+    {
+      "id": 5,
+      "name": "RCP Niños Q&A",
+      "date": "Agosto 9, 12:00 AM - Lima, Bogotá y Quito",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 2
+    },
+    {
+      "id": 6,
+      "name": "RCP Niños Q&A",
+      "date": "Agosto 12, 4:00 PM - Lima, Bogotá y Quito",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 2
+    },
+    {
+      "id": 7,
+      "name": "RCP Adultos Q&A",
+      "date": "Agosto 22, 4:00 PM - Lima, Bogotá y Quito",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 3
+    },
+    {
+      "id": 8,
+      "name": "RCP Adultos Q&A",
+      "date": "Agosto 22, 8:00 PM - Lima, Bogotá y Quito",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 3
+    },
+    {
+      "id": 9,
+      "name": "Alergias Q&A",
+      "date": "Septiembre 1, 09:00 AM - Lima, Bogotá y Quito",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 4
+    }
+  ],
+  "practices": [
+    {
+      "id": 1,
+      "name": "Práctica Prevención",
+      "date": "Julio 5, 9:00 AM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet, stunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Práctica Prevención",
+      "date": "Julio 5, 11:00 AM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 1
+    },
+    {
+      "id": 3,
+      "name": "Práctica Prevención",
+      "date": "Julio 5, 2:00 PM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 1
+    },
+    {
+      "id": 4,
+      "name": "Práctica RCP Niños",
+      "date": "Agosto 1, 10:00 AM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 2
+    },
+    {
+      "id": 5,
+      "name": "Práctica RCP Niños",
+      "date": "Agosto 9, 12:00 AM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 2
+    },
+    {
+      "id": 6,
+      "name": "Práctica RCP Niños",
+      "date": "Agosto 12, 4:00 PM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 2
+    },
+    {
+      "id": 7,
+      "name": "Práctica RCP Adultos",
+      "date": "Agosto 22, 4:00 PM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 3
+    },
+    {
+      "id": 8,
+      "name": "Práctica RCP Adultos",
+      "date": "Agosto 28, 8:00 PM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 3
+    },
+    {
+      "id": 9,
+      "name": "Práctica Alergias",
+      "date": "Septiembre 1, 09:00 AM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 4
+    },
+    {
+      "id": 10,
+      "name": "Práctica Alergias",
+      "date": "Septiembre 23, 09:00 AM - Lima, Bogotá y Quito",
+      "address": "Av. Petit Thouars 3990, Lima",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores accusantium eveniet laboriosam vel corporis fuga nulla? Totam, sunt. Id, dolor amet. Hic harum minus laborum perferendis.",
+      "course_id": 4
+    }
+  ],
+  "profile": {
+    "name": "Giancarlo Ramirez",
+    "my_courses": [
+      {
+        "id": 2,
+        "current_state": {
+          "webinar": {
+            "registered_webinar_id": 3,
+            "warnings": {
+              "code": 123,
+              "warning_message": "no_asististe_al_tiempo"
+            }
+          },
+          "quiz": {
+            "aprobo": true
+          },
+          "practice": {
+            "registered_practice_id": 123
+          }
+        }
+      },
+      {
+        "id": 3,
+        "current_state": {
+          "webinar": { "registered_webinar_id": 3 },
+          "quiz": {},
+          "practice": {
+            "registered_practice_id": 123
+          }
+        }
+      }
+    ]
+  },
+  "jwt-auth": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+  },
+  "certificates": [
+    {
+      "id": "60a46431327b9bb6cdd4247c",
+      "date": "Julio 5, 9:00 AM - Lima, Bogotá y Quito",
+      "downloadLink": "https://newscenter.sdsu.edu/education/cmstraining/files/06344-cat-red.pdf",
+      "course": {
+        "id": 1,
+        "name": "Prevención"
+      }
+    },
+    {
+      "id": "60a46441a55bbd7ee1aace2b",
+      "date": "Agosto 15, 10:00 AM - Lima, Bogotá y Quito",
+      "downloadLink": "https://newscenter.sdsu.edu/education/cmstraining/files/06344-cat-red.pdf",
+      "course": {
+        "id": 2,
+        "name": "RCP Niños"
+      }
+    },
+    {
+      "id": "60a46441a55bbd7ee5gtwh3t",
+      "date": "Agosto 25, 11:00 AM - Lima, Bogotá y Quito",
+      "downloadLink": "https://newscenter.sdsu.edu/education/cmstraining/files/06344-cat-red.pdf",
+      "course": {
+        "id": 4,
+        "name": "Alergias"
+      }
+    }
+  ],
+  "quiz": {
+    "id": 1,
+    "questions": [
+      {
+        "id": 1,
+        "body": "¿Lorem ipsum, foren sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores?",
+        "alternatives": [
+          {
+            "id": 1,
+            "body": "Opción 1"
+          },
+          {
+            "id": 2,
+            "body": "Opción 2"
+          },
+          {
+            "id": 3,
+            "body": "Opción 3"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "body": "¿Pregunta 2, kuma sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores?",
+        "alternatives": [
+          {
+            "id": 1,
+            "body": "Opción 1"
+          },
+          {
+            "id": 2,
+            "body": "Opción 2"
+          },
+          {
+            "id": 3,
+            "body": "Opción 3"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "body": "¿Pregunta 3, kijo sit amet consectetur adipisicing elit. Rerum molestiae corrupti distinctio maiores?",
+        "alternatives": [
+          {
+            "id": 1,
+            "body": "Opción 1"
+          },
+          {
+            "id": 2,
+            "body": "Opción 2"
+          },
+          {
+            "id": 3,
+            "body": "Opción 3"
+          }
+        ]
+      }
+    ]
+  }
+}
